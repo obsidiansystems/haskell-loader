@@ -1,11 +1,8 @@
 {
   "name": "haskell-loader",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Webpack loader for Haskell",
   "main": "src/index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Obsidian Systems LLC",
+  "author": "Obsidian Systems <maintainer@obsidian.systems> https://obsidian.systems",
   "license": "BSD-3-Clause"
 }
